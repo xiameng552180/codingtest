@@ -1,4 +1,9 @@
 # codingtest
+usage:
+
+enter the folder "codingtest" and then run the code "python run.py"
+
+
 问题：
 
 1.color scale 是一个还是两个?
