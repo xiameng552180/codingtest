@@ -6,12 +6,11 @@ usage:
 3. open this url:http://127.0.0.1:5000/
 
 
-问题：
+Confusions：
 
-1.color scale 是一个还是两个?
-2.数据只是到06年?
+level 1: the data only last for 2006?
 
-level2
+level2: Some data are missing, I keep them the same with the previous day.
+        And if it's the missing data is in the end of the month, I just leace it empty.
 
-1.对于缺省的数据，跟前一天保持数据相同
-2.每个月后面缺省的没添加
+Level3: One professor has no name.
