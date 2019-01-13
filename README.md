@@ -1,5 +1,5 @@
 # codingtest
-usage:
+Usage:
 
 1. enter the folder "codingtest"
 2. run the code "python run.py" 
