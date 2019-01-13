@@ -1,7 +1,9 @@
 # codingtest
 usage:
 
-enter the folder "codingtest" and then run the code "python run.py"
+1. enter the folder "codingtest"
+2. run the code "python run.py" 
+3. open this url:http://127.0.0.1:5000/
 
 
 问题：
