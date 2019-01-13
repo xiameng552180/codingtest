@@ -8,9 +8,9 @@ usage:
 
 Confusions：
 
-level 1: the data only last for 2006?
+level 1: The data only lasts until 2006?
 
-level2: Some data are missing, I keep them the same with the previous day.
-        And if it's the missing data is in the end of the month, I just leace it empty.
+level2: Some data are missing and I keep them the same with the previous day.
+        If it's the missing data is in the end of the month, I just leave it empty.
 
 Level3: One professor has no name.
