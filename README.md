@@ -17,4 +17,6 @@ Level3: One professor has no name.
         Some professors from other departments have the same id as in the CSE department.
         Sort according to the publications.
         
-level4: When doing the plotting, the time step I use is 50 days.
+level4: Need to add the data.csv to the directory and then run the code.
+       When doing the plotting, the time step I use is 50 days.
+      
